@@ -1,0 +1,47 @@
+.copyright {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.social {
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.item {
+  padding: 5px;
+}
+
+.link {
+  color: black;
+}
+
+.link:hover {
+  color: black;
+}
+
+
+.zoom:hover {
+  transition: 0.5s;
+  transform: scale(1.25);
+}
+
+.zoom:not(:hover) {
+  transition: 0.5s;
+  transform: scale(1.00);
+}
+
+.footer {
+  margin-bottom: 100px;
+}
+
+.icon {
+  width: 30px;
+}
+
+a {
+  display: inline-block;
+}

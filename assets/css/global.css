@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  background: #f8f8f8;
+  -webkit-font-smoothing: antialiased;
+  color: #29292e;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body,
+input,
+button {
+  font-family: "Red Hat Display", sans-serif;
+}
+
